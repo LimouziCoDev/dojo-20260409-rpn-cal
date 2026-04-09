@@ -1,4 +1,4 @@
-# RPN Calculator kataa
+# RPN Calculator kata
 
 <https://codingdojo.org/kata/RPN/>
 
