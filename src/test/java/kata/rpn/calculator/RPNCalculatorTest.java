@@ -13,7 +13,7 @@ class RPNCalculatorTest {
     void setUp() {
         rpnCalculator = new RpnCalculator(
                 new RpnParser(),
-                new ExpresssionEvaluator(),
+                new ExpressionEvaluator(),
                 new ExpressionPrinter());
     }
 

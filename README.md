@@ -10,3 +10,9 @@ Avec approval tests <https://approvaltests.com/>
   - Ajout de approval tests
   - Création de `RPNCalculatorTest` et `RPNCalculator`
   - Création de `RPNParserTest` et `RPNParser`
+
+2026-04-23
+
+- Poursuite du kata
+  - Implémentation de `RPNParser`
+  - Implémentation naive de `RPNCalculator`
